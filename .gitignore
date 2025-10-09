@@ -1,0 +1,27 @@
+# Build outputs
+target/
+bin/
+build/
+dist/
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# NetBeans
+/nbproject/private/
+/nbproject/
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
