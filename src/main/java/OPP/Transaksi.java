@@ -18,7 +18,7 @@ public class Transaksi {
         // membuat object
         Bank n1 = new Bank("Budi", 111, 500000);
         Bank n2 = new Bank("Deden", 112, 700000);
-        Bank n3 = new Bank("Siti", 113, 400000);
+        Bank n3 = new Bank("Joko", 113, 400000);
 //panggil member class
         n1.menabung(300000);
         n2.menabung(100000);
