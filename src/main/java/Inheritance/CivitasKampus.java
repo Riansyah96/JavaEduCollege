@@ -24,14 +24,17 @@ public class CivitasKampus {
         d1.setNama("Nasrul");
         d1.setGender('L');
         d1.setGelar("S.Kom, M.Kom");
+        
         d2.setNidn("1112");
         d2.setNama("Tifany");
         d2.setGender('P');
         d2.setGelar("ST, MT");
+        
         m1.setJurusan("TI");
         m1.setSemester(3);
         m1.setNama("Eko");
         m1.setGender('L');
+        
         m2.setNama("Maya Malahayati");
         m2.setGender('P');
         m2.setJurusan("SI");
