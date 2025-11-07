@@ -9,10 +9,8 @@ package TugasInterfaces;
  * @author apriansyah
  */
 public class FahrenheitCelcius implements KonverterSatuan {
-    // field variable
     String asal, tujuan;
 
-    // default constructor
     public FahrenheitCelcius() {
         this.asal = "Fahrenheit";
         this.tujuan = "Celcius";

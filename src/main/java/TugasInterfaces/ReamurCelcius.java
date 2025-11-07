@@ -9,10 +9,8 @@ package TugasInterfaces;
  * @author apriansyah
  */
 public class ReamurCelcius implements KonverterSatuan {
-    // field variable
     String asal, tujuan;
 
-    // default constructor
     public ReamurCelcius() {
         this.asal = "Reamur";
         this.tujuan = "Celcius";
